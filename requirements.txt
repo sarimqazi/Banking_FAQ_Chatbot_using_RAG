@@ -1,0 +1,49 @@
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+langchain-groq
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+python-dotenv
+ipykernel
+langchain-tavily
+
+langserve
+wikipedia
+arxiv
+langchainhub
+PyPDF2
+groq
+cassio
+beautifulsoup4
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
+fastapi
+streamlit
+langchain-ollama
+pypdf
+unstructured
+langchainhub
